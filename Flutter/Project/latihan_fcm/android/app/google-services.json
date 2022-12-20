@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "879445229110",
+    "project_id": "latihan-fcm-b09a0",
+    "storage_bucket": "latihan-fcm-b09a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879445229110:android:2f2309d38e7006a02e2297",
+        "android_client_info": {
+          "package_name": "com.example.latihan_fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879445229110-o00st464ab2k90kk0b4ip98ilqnsr0oe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.latihan_fcm",
+            "certificate_hash": "c8cb0aee3650bd23befa5c01ecce054e804028d6"
+          }
+        },
+        {
+          "client_id": "879445229110-kcggmnhha6gsh7tj7nt4nh69p0qoko20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeV28YVejkGmveRCLr2JIjNvvkK7mhR9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879445229110-kcggmnhha6gsh7tj7nt4nh69p0qoko20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
