@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "349889688653",
+    "firebase_url": "https://presence-app-c2764-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "presence-app-c2764",
+    "storage_bucket": "presence-app-c2764.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349889688653:android:cddee247480b30a70b5804",
+        "android_client_info": {
+          "package_name": "com.example.presence_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349889688653-iorprce5eget6aubaqse9ucaghrltkn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBODvaP0_oWcw0DJas5DKgej_0WXTXqxI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349889688653-iorprce5eget6aubaqse9ucaghrltkn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

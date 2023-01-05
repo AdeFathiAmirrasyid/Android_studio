@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "949592458281",
+    "project_id": "chat-app-52c80",
+    "storage_bucket": "chat-app-52c80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949592458281:android:9eafcd34631c8c965b8838",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949592458281-7r9jgj4ko9ncgbk8mtom57u8gaoin34n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBepIKZidSIxHR99waNylvxNq88EWoFeeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949592458281-7r9jgj4ko9ncgbk8mtom57u8gaoin34n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949592458281:android:b0d25c5bd80ce1d55b8838",
+        "android_client_info": {
+          "package_name": "com.insani.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949592458281-posj91fqn403gb59hu40f4r3jkdhmb6g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.insani.chat_app",
+            "certificate_hash": "c8cb0aee3650bd23befa5c01ecce054e804028d6"
+          }
+        },
+        {
+          "client_id": "949592458281-7r9jgj4ko9ncgbk8mtom57u8gaoin34n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBepIKZidSIxHR99waNylvxNq88EWoFeeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949592458281-7r9jgj4ko9ncgbk8mtom57u8gaoin34n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
