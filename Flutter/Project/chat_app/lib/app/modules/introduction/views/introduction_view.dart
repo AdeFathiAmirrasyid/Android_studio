@@ -62,21 +62,20 @@ class IntroductionView extends GetView<IntroductionController> {
         ),
       ],
       showSkipButton: true,
-      skip: Text("Skip",style: TextStyle(color: Get.isDarkMode ? Colors.white : Colors.black)),
+      skip: Text("Skip",
+          style:
+              TextStyle(color: Get.isDarkMode ? Colors.white : Colors.black)),
       next: Text(
         "Next",
-        style: TextStyle(fontWeight: FontWeight.bold,color: Get.isDarkMode ? Colors.white : Colors.black),
+        style: TextStyle(
+            fontWeight: FontWeight.bold,
+            color: Get.isDarkMode ? Colors.white : Colors.black),
       ),
-      done: Text("Login", style: TextStyle(fontWeight: FontWeight.w700,color: Get.isDarkMode ? Colors.white : Colors.black)),
+      done: Text("Login",
+          style: TextStyle(
+              fontWeight: FontWeight.w700,
+              color: Get.isDarkMode ? Colors.white : Colors.black)),
       onDone: () => Get.offAllNamed(Routes.LOGIN),
-      // dotsDecorator: DotsDecorator(
-      //   size: const Size.square(10.0),
-      //   activeSize: const Size(20.0, 10.0),
-      //   color: Colors.black26,
-      //   spacing: const EdgeInsets.symmetric(horizontal: 3.0),
-      //   activeShape:
-      //       RoundedRectangleBorder(borderRadius: BorderRadius.circular(25.0)),
-      // ),
     ));
   }
 }
